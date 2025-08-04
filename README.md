@@ -51,13 +51,6 @@ Welcome to my GitHub! I’m deeply interested in **automating research and devel
 - Configured and troubleshot JWT, LDAP, and Keycloak.
 - Auth flows in services like Jitsi Meet, Razorpay, and Grafana.
 
-### 🎥 Jitsi Meet Customization
-- Full Docker-based deployment and troubleshooting.
-- Experience with:
-  - `token_affiliation` plugin
-  - Moderator logic bugs and Jicofo config deep dive
-  - Integrating Etherpad, Whiteboard, TURN/STUN
-
 ---
 
 ## 📌 Current Focus
